@@ -1,1 +1,0 @@
-import{a as t,b as o,r as s,o as a}from"./entry.db456876.js";const r={},c={class:"layout-default"};function n(e,l){return a(),o("div",c,[s(e.$slots,"default")])}const d=t(r,[["render",n]]);export{d as default};
