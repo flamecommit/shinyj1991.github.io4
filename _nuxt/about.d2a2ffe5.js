@@ -1,0 +1,1 @@
+import{_ as o}from"./nuxt-link.24b03620.js";import{a,b as c,e,f as n,h as s,w as _,o as r}from"./entry.7b1e2e69.js";const d={},u={class:"page-about"};function f(i,l){const t=o;return r(),c("div",u,[e(" about "),n("div",null,[s(t,{to:"/"},{default:_(()=>[e("go to home")]),_:1})])])}const x=a(d,[["render",f]]);export{x as default};
